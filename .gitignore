@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Private notes
+notes.md
+
+# API key
+.env
