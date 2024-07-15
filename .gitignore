@@ -1,8 +1,8 @@
 # Node modules
 node_modules/
 
-# Private notes
-notes.md
+# Test files
+tests/
 
-# API key
+# Sensitive data
 .env

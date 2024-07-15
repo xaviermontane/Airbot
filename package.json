@@ -10,10 +10,13 @@
     "eslint": "^9.7.0"
   },
   "scripts": {
+    "main": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": [
+    "dc-bot"
+  ],
+  "author": "F40",
+  "license": "N/A",
+  "description": "A Discord bot."
 }
