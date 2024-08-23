@@ -6,3 +6,7 @@ tests/
 
 # Sensitive data
 .env
+
+# Package files
+package-lock.json
+package.json
