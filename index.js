@@ -3,7 +3,6 @@ const path = require('node:path');
 const { Client, Collection, GatewayIntentBits } = require('discord.js');
 require('dotenv').config();
 
-// Create a new client (bot) instance
 const client = new Client({
 	intents: [
 	  GatewayIntentBits.Guilds,
@@ -45,7 +44,6 @@ for (const file of eventFiles) {
 	}
 }
 
-// Log in with the bot's token
 client.login(process.env.token);
 console.log('API key loaded...');
 
