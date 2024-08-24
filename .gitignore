@@ -1,3 +1,6 @@
+# IDE files
+.vscode/
+
 # Node modules
 node_modules/
 
@@ -5,4 +8,5 @@ node_modules/
 tests/
 
 # Sensitive data
+notes.md
 .env
